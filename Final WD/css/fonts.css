@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Times';
+    src: url('../fonts/Times-regular.ttf') format('truetype');
+    font-style: normal;
+ }
+ @font-face {
+    font-family: 'Times';
+    src: url('../fonts/Times-bold.ttf') format('truetype');
+    font-weight: 600;
+ }
+
+ @font-face {
+   font-family: 'georgia';
+   src: url('../fonts/georgia-regular.ttf') format('truetype');
+   font-style: normal;
+}
+@font-face {
+   font-family: 'georgia';
+   src: url('../fonts/georgia-bold.ttf') format('truetype');
+   font-weight: 600;
+}
